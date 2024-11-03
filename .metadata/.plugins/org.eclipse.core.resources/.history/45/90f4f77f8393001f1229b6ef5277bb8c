@@ -1,0 +1,5 @@
+package odb_test;
+
+public class Student {
+
+}

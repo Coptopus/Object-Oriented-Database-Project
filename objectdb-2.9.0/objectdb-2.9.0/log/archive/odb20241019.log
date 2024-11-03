@@ -1,0 +1,87 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-10-19 20:19:53 #1 store] 
+Database 'D:\Stuff\X-tras\Programs for work\objectdb-2.9.0\objectdb-2.9.0\db\p2.odb' is opened by 10024@DESKTOP-O31KUMM
+
+[2024-10-19 20:19:53 #2 store] 
+Configuration path: D:\Stuff\X-tras\Programs for work\objectdb-2.9.0\objectdb-2.9.0\objectdb.conf
+
+[2024-10-19 20:19:53 #3 type] 
+Type tutorial.Point is not enhanced.
+
+[2024-10-19 20:19:53 #4 store] 
+Database 'D:\Stuff\X-tras\Programs for work\objectdb-2.9.0\objectdb-2.9.0\db\p2.odb' is closed by 10024@DESKTOP-O31KUMM
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-10-19 19:21:39 #1 store.file] 
+readTextFile error.
+
+[2024-10-19 19:21:39 #2 store.file] 
+java.io.FileNotFoundException: C:\Users\dell\.objectdb\exolorer.xml (The system cannot find the file specified)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at com.objectdb.o.STH.B(STH.java:731)
+	at com.objectdb.o.STH.A(STH.java:715)
+	at com.objectdb.o.CNF.<init>(CNF.java:106)
+	at com.objectdb.o.CNF.<clinit>(CNF.java:32)
+	at com.objectdb.o.MainFrame.init(MainFrame.java:132)
+	at com.objectdb.o.EXA.<init>(EXA.java:77)
+	at com.objectdb.Explorer$1.run(Explorer.java:57)
+	at java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$500(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+
+[2024-10-19 19:21:40 #3 store] 
+Database 'D:\Stuff\X-tras\Programs for work\objectdb-2.9.0\objectdb-2.9.0\db\p2.odb' is opened by 12276@DESKTOP-O31KUMM
+
+[2024-10-19 19:21:40 #4 store] 
+Configuration path: D:\Stuff\X-tras\Programs for work\objectdb-2.9.0\objectdb-2.9.0\objectdb.conf
+
+[2024-10-19 19:21:40 #5 store.file] 
+readTextFile error.
+
+[2024-10-19 19:21:40 #6 store.file] 
+java.io.FileNotFoundException: C:\Users\dell\.objectdb\exolorer.xml (The system cannot find the file specified)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at com.objectdb.o.STH.B(STH.java:731)
+	at com.objectdb.o.STH.A(STH.java:715)
+	at com.objectdb.o.CNF.<init>(CNF.java:106)
+	at com.objectdb.o.CNF.f(CNF.java:130)
+	at com.objectdb.o.CNC.s(CNC.java:119)
+	at com.objectdb.o.EXA.<init>(EXA.java:87)
+	at com.objectdb.Explorer$1.run(Explorer.java:57)
+	at java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$500(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+
+[2024-10-19 19:24:48 #7 store] 
+Database 'D:\Stuff\X-tras\Programs for work\objectdb-2.9.0\objectdb-2.9.0\db\p2.odb' is closed by 12276@DESKTOP-O31KUMM
+

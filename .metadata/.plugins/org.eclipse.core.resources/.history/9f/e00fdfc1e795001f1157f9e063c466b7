@@ -1,0 +1,52 @@
+package odb_test;
+
+//import java.util.List;
+//import javax.persistence.*;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		System.out.println(DB.getAllStudents());
+		
+	}
+
+}
+
+// Code Snippets
+//
+//
+//Student s1 = new Student("Mohammed Safwat", "mohammed.safwat@cs.mti.edu.eg");
+//Student s2 = new Student("Aya Saber", "aya.saber@cs.mti.edu.eg");
+//Student s3 = new Student("Ahmed Huzain", "ahmed.huzain@cs.mti.edu.eg");
+//
+//DB.addStudent(s1);
+//DB.addStudent(s2);
+//DB.addStudent(s3);
+//
+//Course c1 = new Course("Object Oriented Database", 3);
+//Course c2 = new Course("Software Engineering I", 3);
+//Course c3 = new Course("Graduation Project", 6);
+//
+//DB.addCourse(c1);
+//DB.addCourse(c2);
+//DB.addCourse(c3);
+//
+//EntityManagerFactory emf = Persistence.createEntityManagerFactory("$objectdb/db/odbtest.odb");
+//EntityManager em = emf.createEntityManager();
+//
+//List<Student> students = DB.getAllStudents();
+//List<Course> courses = DB.getAllCourses();
+//
+//em.getTransaction().begin();
+//for (Student s : students) {
+//	Student student = em.merge(s);
+//	em.remove(student);
+//}
+//em.getTransaction().commit();
+//em.close();
+//emf.close();
+//
+//for (Course course : courses) {
+//	System.out.println(course);
+//}

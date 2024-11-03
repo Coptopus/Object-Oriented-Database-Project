@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/MTI/Work/ODB/Coding/objectdb-2.9.0/objectdb-2.9.0/bin/objectdb.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/D:/Stuff/X-tras/Programs%20for%20work/objectdb-2.9.0/objectdb-2.9.0/doc/api-javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

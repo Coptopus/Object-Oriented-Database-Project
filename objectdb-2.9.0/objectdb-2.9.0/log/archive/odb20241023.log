@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-10-23 09:21:55 #1 store] 
+Database 'D:\Stuff\X-tras\Programs for work\objectdb-2.9.0\objectdb-2.9.0\db\world.odb' has been recovered (tr. 24-25)
+
+[2024-10-23 09:21:56 #2 store] 
+Database 'D:\Stuff\X-tras\Programs for work\objectdb-2.9.0\objectdb-2.9.0\db\world.odb' is opened by 10924@DESKTOP-O31KUMM
+
+[2024-10-23 09:21:56 #3 store] 
+Configuration path: D:\Stuff\X-tras\Programs for work\objectdb-2.9.0\objectdb-2.9.0\objectdb.conf
+
+[2024-10-23 09:22:24 #4 store] 
+Database 'D:\Stuff\X-tras\Programs for work\objectdb-2.9.0\objectdb-2.9.0\db\world.odb' is closed by 10924@DESKTOP-O31KUMM
+
+[2024-10-23 09:22:25 #5 store] 
+Database 'D:\Stuff\X-tras\Programs for work\objectdb-2.9.0\objectdb-2.9.0\db\p2.odb' is opened by 10924@DESKTOP-O31KUMM
+
+[2024-10-23 09:22:25 #6 store] 
+Configuration path: D:\Stuff\X-tras\Programs for work\objectdb-2.9.0\objectdb-2.9.0\objectdb.conf
+
+[2024-10-24 08:17:53 #7 store] 
+Database 'D:\Stuff\X-tras\Programs for work\objectdb-2.9.0\objectdb-2.9.0\db\p2.odb' is closed by 10924@DESKTOP-O31KUMM
+

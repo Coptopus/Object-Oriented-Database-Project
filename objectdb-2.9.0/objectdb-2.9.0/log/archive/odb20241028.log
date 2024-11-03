@@ -1,0 +1,86 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-10-28 14:07:16 #1 store] 
+Database 'D:\Stuff\X-tras\Programs for work\objectdb-2.9.0\objectdb-2.9.0\db\odbtest.odb' is opened by 3476@DESKTOP-O31KUMM
+
+[2024-10-28 14:07:16 #2 store] 
+Configuration path: D:\Stuff\X-tras\Programs for work\objectdb-2.9.0\objectdb-2.9.0\objectdb.conf
+
+[2024-10-28 14:41:15 #3 store] 
+Database 'D:\Stuff\X-tras\Programs for work\objectdb-2.9.0\objectdb-2.9.0\db\odbtest.odb' is closed by 3476@DESKTOP-O31KUMM
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-10-28 15:41:19 #1 store] 
+Database 'D:\Stuff\X-tras\Programs for work\objectdb-2.9.0\objectdb-2.9.0\db\odbtest.odb' is opened by 19068@DESKTOP-O31KUMM
+
+[2024-10-28 15:41:19 #2 store] 
+Configuration path: D:\Stuff\X-tras\Programs for work\objectdb-2.9.0\objectdb-2.9.0\objectdb.conf
+
+[2024-10-28 15:41:20 #3 type] 
+Type odb_test.Student is not enhanced.
+
+[2024-10-28 15:41:20 #4 type] 
+Type odb_test.Enrollment is not enhanced.
+
+[2024-10-28 15:41:20 #5 type] 
+Type odb_test.Course is not enhanced.
+
+[2024-10-28 15:41:20 #6 store] 
+Database 'D:\Stuff\X-tras\Programs for work\objectdb-2.9.0\objectdb-2.9.0\db\odbtest.odb' is closed by 19068@DESKTOP-O31KUMM
+
+[2024-10-28 15:41:20 #7 store] 
+Database 'D:\Stuff\X-tras\Programs for work\objectdb-2.9.0\objectdb-2.9.0\db\odbtest.odb' is opened by 19068@DESKTOP-O31KUMM
+
+[2024-10-28 15:41:20 #8 store] 
+Configuration path: D:\Stuff\X-tras\Programs for work\objectdb-2.9.0\objectdb-2.9.0\objectdb.conf
+
+[2024-10-28 15:41:20 #9 store] 
+Database 'D:\Stuff\X-tras\Programs for work\objectdb-2.9.0\objectdb-2.9.0\db\odbtest.odb' is closed by 19068@DESKTOP-O31KUMM
+
+[2024-10-28 15:41:20 #10 store] 
+Database 'D:\Stuff\X-tras\Programs for work\objectdb-2.9.0\objectdb-2.9.0\db\odbtest.odb' is opened by 19068@DESKTOP-O31KUMM
+
+[2024-10-28 15:41:20 #11 store] 
+Configuration path: D:\Stuff\X-tras\Programs for work\objectdb-2.9.0\objectdb-2.9.0\objectdb.conf
+
+[2024-10-28 15:41:20 #12 store] 
+Database 'D:\Stuff\X-tras\Programs for work\objectdb-2.9.0\objectdb-2.9.0\db\odbtest.odb' is closed by 19068@DESKTOP-O31KUMM
+
+[2024-10-28 15:41:20 #13 store] 
+Database 'D:\Stuff\X-tras\Programs for work\objectdb-2.9.0\objectdb-2.9.0\db\odbtest.odb' is opened by 19068@DESKTOP-O31KUMM
+
+[2024-10-28 15:41:20 #14 store] 
+Configuration path: D:\Stuff\X-tras\Programs for work\objectdb-2.9.0\objectdb-2.9.0\objectdb.conf
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-10-28 14:46:07 #1 store] 
+Database 'D:\Stuff\X-tras\Programs for work\objectdb-2.9.0\objectdb-2.9.0\db\odbtest.odb' is opened by 21328@DESKTOP-O31KUMM
+
+[2024-10-28 14:46:07 #2 store] 
+Configuration path: D:\Stuff\X-tras\Programs for work\objectdb-2.9.0\objectdb-2.9.0\objectdb.conf
+
+[2024-10-28 14:46:49 #3 store] 
+Database 'D:\Stuff\X-tras\Programs for work\objectdb-2.9.0\objectdb-2.9.0\db\odbtest.odb' is closed by 21328@DESKTOP-O31KUMM
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-10-28 16:15:31 #1 store] 
+Database 'D:\Stuff\X-tras\Programs for work\objectdb-2.9.0\objectdb-2.9.0\db\odbtest.odb' is opened by 16016@DESKTOP-O31KUMM
+
+[2024-10-28 16:15:31 #2 store] 
+Configuration path: D:\Stuff\X-tras\Programs for work\objectdb-2.9.0\objectdb-2.9.0\objectdb.conf
+
+[2024-10-28 16:15:31 #3 type] 
+Type odb_test.Student is not enhanced.
+
+[2024-10-28 16:15:31 #4 type] 
+Type odb_test.Enrollment is not enhanced.
+
+[2024-10-28 16:15:31 #5 type] 
+Type odb_test.Course is not enhanced.
+
+[2024-10-28 16:15:31 #6 store] 
+Database 'D:\Stuff\X-tras\Programs for work\objectdb-2.9.0\objectdb-2.9.0\db\odbtest.odb' is closed by 16016@DESKTOP-O31KUMM
+

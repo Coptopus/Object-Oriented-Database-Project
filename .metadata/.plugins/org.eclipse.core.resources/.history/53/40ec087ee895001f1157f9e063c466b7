@@ -1,0 +1,19 @@
+package odb_test;
+
+import java.util.List;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		System.out.println("List of students: \n");
+		List<Student> students = DB.getAllStudents();
+		List<Course> courses = DB.getAllCourses(); 
+		
+		for (Student student : students) {
+			System.out.println(student);
+		}
+		
+	}
+
+}

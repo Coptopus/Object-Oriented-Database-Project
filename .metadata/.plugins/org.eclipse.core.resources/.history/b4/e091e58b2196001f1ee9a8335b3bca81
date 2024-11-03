@@ -1,0 +1,53 @@
+package odb_test;
+
+import java.util.List;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+//		Student s = DB.getStudentById(13);
+//		Course c = DB.getCourseById(16);
+//		Enrollment e = new Enrollment(s,c,0.0);
+		
+//		DB.addEnrollment(e);s
+		
+		System.out.println("\nList of students:");
+		List<Student> students = DB.getAllStudents();
+
+		if (students.isEmpty()) {
+			System.out.println("No items found.");
+		} else {
+			for (Student student : students) {
+				System.out.println(student);
+			}
+		}
+		
+		
+		System.out.println("\nList of courses:");
+		List<Course> courses = DB.getAllCourses(); 
+		
+		if (courses.isEmpty()) {
+			System.out.println("No items found.");
+		} else {
+			for (Course course : courses) {
+				System.out.println(course);
+			}
+		}
+		
+		
+		System.out.println("\nList of Enrollments:");
+		List<Enrollment> enrollments = DB.getAllEnrollments(); 
+		
+		if (enrollments.isEmpty()) {
+			System.out.println("No items found.");
+		} else {
+			for (Enrollment enrollment : enrollments) {
+				System.out.println(enrollment);
+			}
+		}
+		
+		
+	}
+
+}

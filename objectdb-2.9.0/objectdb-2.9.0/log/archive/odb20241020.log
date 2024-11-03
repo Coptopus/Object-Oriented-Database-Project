@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-10-20 11:36:34 #1 store] 
+Database 'D:\Stuff\X-tras\Programs for work\objectdb-2.9.0\objectdb-2.9.0\db\p2.odb' is opened by 14976@DESKTOP-O31KUMM
+
+[2024-10-20 11:36:34 #2 store] 
+Configuration path: D:\Stuff\X-tras\Programs for work\objectdb-2.9.0\objectdb-2.9.0\objectdb.conf
+
+[2024-10-20 11:37:00 #3 store] 
+Database 'D:\Stuff\X-tras\Programs for work\objectdb-2.9.0\objectdb-2.9.0\db\p2.odb' is closed by 14976@DESKTOP-O31KUMM
+
+[2024-10-20 11:37:00 #4 store] 
+Database 'D:\Stuff\X-tras\Programs for work\objectdb-2.9.0\objectdb-2.9.0\db\world.odb' is opened by 14976@DESKTOP-O31KUMM
+
+[2024-10-20 11:37:00 #5 store] 
+Configuration path: D:\Stuff\X-tras\Programs for work\objectdb-2.9.0\objectdb-2.9.0\objectdb.conf
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-10-20 12:40:09 #1 server] 
+Server on port 6136 has started by 9896@DESKTOP-O31KUMM
+
